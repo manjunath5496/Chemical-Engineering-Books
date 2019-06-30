@@ -77,7 +77,16 @@ Plant</a></b></li>
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Engineering-Books/blob/master/chem(101).pdf" style="text-decoration:none;">Engineering of Polymers and Chemical Complexity, Volume I: Current State of the Art and Perspectives</a></b></li>
                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Engineering-Books/blob/master/chem(45).rar" style="text-decoration:none;"> Chemical Process Equipment: Selection and Design</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Engineering-Books/blob/master/chem(46).rar" style="text-decoration:none;">Advanced Chemical Engineering Thermodynamics</a></b></li>
+                              
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Engineering-Books/blob/master/chem(47).rar" style="text-decoration:none;"> Applied Chemistry and Chemical Engineering, Volume 5: Research Methodologies in Modern Chemistry and Applied Science</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Engineering-Books/blob/master/chem(48).rar" style="text-decoration:none;">ASPEN PLUS Chemical Engineering Applications</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Engineering-Books/blob/master/chem(49).rar" style="text-decoration:none;">Water Quality Engineering</a></b></li>
 
     
 </ul>
