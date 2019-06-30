@@ -1,26 +1,26 @@
 <ul>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(1).pdf" style="text-decoration:none;">Mechanical Engineering Principles </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(2).pdf" style="text-decoration:none;">An Introduction to Mechanical Engineering</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(3).pdf" style="text-decoration:none;">CAPE Building And Mechanical Engineering</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(50).pdf" style="text-decoration:none;">Unit Operations of Chemical Engineering </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(51).pdf" style="text-decoration:none;">Handbook of Fire and Explosion Protection Engineering Principles for Oil, Gas, Chemical, and Related Facilities</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(52).pdf" style="text-decoration:none;">The Chemical Reactor from Laboratory to Industrial
+Plant</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(4).pdf" style="text-decoration:none;">A Textbook of Engineering Mechanics</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(5).pdf" style="text-decoration:none;">Gas Turbine Engineering Handbook </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(53).pdf" style="text-decoration:none;">Fundamentals of Chemical Engineering Thermodynamics</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(54).pdf" style="text-decoration:none;">Applied Mathematics and Modeling for Chemical Engineers </a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(6).pdf" style="text-decoration:none;">Mechanical Engineering Principles</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(55).pdf" style="text-decoration:none;">Pharmaceutical Production: An Engineering Guide</a></b></li>
                           
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(7).pdf" style="text-decoration:none;">Mechanical Engineer's Handbook</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(8).pdf" style="text-decoration:none;">Mechanical Engineers' Handbook: Materials and Engineering
-Mechanics</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(9).rar" style="text-decoration:none;">Marks' Standard Handbook for Mechanical Engineers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(56).pdf" style="text-decoration:none;">Chemical Engineering for Non-Chemical Engineers – 5 Days Module</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(57).pdf" style="text-decoration:none;">Rules of Thumb for Chemical Engineers</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(58).pdf" style="text-decoration:none;">Drug Delivery: Engineering Principles for Drug Therapy</a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(10).pdf" style="text-decoration:none;">Basics of Mechanical Engineering</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(59).pdf" style="text-decoration:none;">Chemical Engineering Computation with MATLAB</a></b></li>  
         
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(11).rar" style="text-decoration:none;">Applied Mechanics Dynamics</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(12).pdf" style="text-decoration:none;">Machinery's Handbook Pocket Companion</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(13).pdf" style="text-decoration:none;">Mechanical Engineering Drawing Workshop</a></b></li>  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(14).pdf" style="text-decoration:none;">Mechanics of Materials</a></b></li>  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(15).pdf" style="text-decoration:none;">Mechatronics: Electronic Control Systems In Mechanical And Electrical Engineering</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(16).pdf" style="text-decoration:none;">Vector mechanics for engineers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(60).pdf" style="text-decoration:none;">Introduction to Chemical Reaction Engineering and Kinetics </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(61).pdf" style="text-decoration:none;">An introduction to materials engineering and science: for chemical and materials engineers</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(62).pdf" style="text-decoration:none;">Plant Design and Economics for Chemical Engineers</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(63).pdf" style="text-decoration:none;">Coulson and Richardson's chemical engineering: Chemical and Biochemical Reactors and Process Control</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(64).pdf" style="text-decoration:none;">Coulson and Richardson's chemical engineering: Chemical and Biochemical Reactors and Reaction Engineering</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(65).pdf" style="text-decoration:none;">Mass Transfer in Chemical Engineering Processes</a></b></li>
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(17).pdf" style="text-decoration:none;">Wiley Acing The Gate: Mechanical Engineering</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanical-Engineering-Books/blob/master/mech(18).pdf" style="text-decoration:none;">A Heat Transfer Textbook </a></b></li>
