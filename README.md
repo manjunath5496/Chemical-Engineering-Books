@@ -88,5 +88,12 @@ Plant</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Engineering-Books/blob/master/chem(49).rar" style="text-decoration:none;">Water Quality Engineering</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Engineering-Books/blob/master/chem(102).rar" style="text-decoration:none;">Perry's Chemical Engineers' Handbook</a></b></li>
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Engineering-Books/blob/master/chem(103).pdf" style="text-decoration:none;">Chemical Kinetics and Reaction Dynamics</a></b></li>   
     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Engineering-Books/blob/master/chem(104).pdf" style="text-decoration:none;">Chemical Kinetics: From Molecular Structure to Chemical Reactivity</a></b></li>      
+    
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Engineering-Books/blob/master/chem(95).pdf" style="text-decoration:none;">Analysis, Synthesis, and Design of Chemical Processes</a></b></li>     
+       
 </ul>
